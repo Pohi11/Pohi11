@@ -1,5 +1,3 @@
-### Hi there, I'm Jonathan 👋
-
 I'm a Computer Science student at Carleton University in Ottawa, Ontario, specializing in Cloud Infrastructure, Full-Stack Development, and AI automation. I focus on building resilient, high-performance systems from the ground up.
 
 ---
