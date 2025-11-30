@@ -1,4 +1,4 @@
-I'm a Computer Science student at Carleton University in Ottawa, Ontario, specializing in Cloud Infrastructure, Full-Stack Development, and AI automation. I focus on building resilient, high-performance systems from the ground up.
+I'm a Computer Science student at Carleton University in Ottawa, Ontario, specializing in Cloud Infrastructure, Full-Stack Development, AI, and automation. I enjoy problem-solving and challenging myself.
 
 ---
 
