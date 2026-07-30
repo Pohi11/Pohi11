@@ -1,4 +1,4 @@
-I'm a Computer Science student at Carleton University in Ottawa, Ontario, specializing in Cloud Infrastructure, Full-Stack Development, AI, and automation. I enjoy problem-solving and challenging myself.
+I'm a software engineer at CGI and a Carleton University Computer Science graduate, specializing in Cloud Infrastructure, Full-Stack Development, AI, and automation. I enjoy problem-solving and challenging myself.
 
 ---
 
